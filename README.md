@@ -1,4 +1,4 @@
-# meandmybadself.github.io
+# [me.meandmybadself.com](https://me.meandmybadself.com)
 
 My blog.
 
