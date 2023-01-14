@@ -18,7 +18,7 @@ The result was https://brooks.cool
 	* Set up notifications to alert you of changes
 
 |----|-----|
-|<img src='/assets/brooks-dot-cool/notifications-menu.jpg' width='400' alt=''/>|<img src='/assets/brooks-dot-cool/notifications-menu.jpg' width='400' alt=''/>|
+|<img src='/assets/brooks-dot-cool/notifications.jpg' width='400' alt=''/>|<img src='/assets/brooks-dot-cool/notifications-menu.jpg' width='400' alt=''/>|
 
 
 * Publish the document as iframe (File > Share > Publish to Web)
