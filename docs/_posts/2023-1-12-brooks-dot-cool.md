@@ -12,16 +12,16 @@ The result was https://brooks.cool
 
 # Steps
 
-* Create a Google Doc using kid's Google account (https://doc.new)
-* If you'd like some level of oversight
-	* Share the document to yourself parent as Editor (File > Share > Share with Others)
+* Create a Google Doc using kid's Google account [https://doc.new](https://doc.new)
+* If you'd like some level of oversight:
+	* Share the document to yourself parent as Editor (`File > Share > Share with Others`)
 	* Set up notifications to alert you of changes
 
 |----|-----|
 |<img src='/assets/brooks-dot-cool/notifications.jpg' width='400' alt=''/>|<img src='/assets/brooks-dot-cool/notifications-menu.jpg' width='400' alt=''/>|
 
 
-* Publish the document as iframe (File > Share > Publish to Web)
+* Publish the document as iframe (`File > Share > Publish to Web`)
 	* Click `Embed` and copy the iframe HTML.
 <img src='/assets/brooks-dot-cool/embed.jpg' width='400' />
 
@@ -65,4 +65,4 @@ The result was https://brooks.cool
 </html>
 ```
 
-* If you'd like a custom domain (and not YOUR_USERNAME.github.io), set up DNS to point at the Github Pages instance.
+* If you'd like a custom domain (and not YOUR_USERNAME.github.io), [use these instructions](https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/managing-a-custom-domain-for-your-github-pages-site#configuring-a-subdomain).
