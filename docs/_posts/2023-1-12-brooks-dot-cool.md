@@ -65,4 +65,4 @@ The result was https://brooks.cool
 </html>
 ```
 
-* If you'd like a custom domain (and not YOUR_USERNAME.github.io), [use these instructions](https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/managing-a-custom-domain-for-your-github-pages-site#configuring-a-subdomain).
+* If you'd like a custom domain (and not YOUR_USERNAME.github.io), [use these instructions](https://blog.cloudflare.com/secure-and-fast-github-pages-with-cloudflare/).
