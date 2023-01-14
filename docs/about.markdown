@@ -6,7 +6,7 @@ permalink: /about/
 
 I'm Jeffery Bennett & I'm honored that you’ve stopped by.
 
-I'm a technologist & experience designer living in Minnetonka, Minnesota with my pretty wife & [three](https://www.instagram.com/p/CEIJ8MFnd2p/) [genius](https://www.instagram.com/p/B_YlUGzHore/) [children](https://www.instagram.com/p/Ch5iO_sJu0R/).
+I'm a technologist living in Minnetonka, Minnesota with my pretty wife & [three](https://www.instagram.com/p/CEIJ8MFnd2p/) [genius](https://www.instagram.com/p/B_YlUGzHore/) [children](https://www.instagram.com/p/Ch5iO_sJu0R/).
 
 Prior to Minnesota, I did some time in San Francisco, a bit in Boston, got a design degree at the University of Cincinnati and grew up in Niles, Ohio.
 

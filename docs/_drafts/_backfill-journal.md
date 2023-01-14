@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  "Backfilled "
-date:   2022-12-16 12:00:00 -0600
 categories: memories
 ---
 

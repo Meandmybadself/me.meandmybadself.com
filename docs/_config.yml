@@ -28,7 +28,6 @@ twitter_username: meandmybadself
 github_username: meandmybadself
 
 # Build settings
-# theme: minima
 plugins:
   - jekyll-feed
 
