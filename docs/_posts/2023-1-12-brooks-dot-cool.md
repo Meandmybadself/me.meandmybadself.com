@@ -8,7 +8,7 @@ categories: web
 # Overview
 My 7 year old expressed interest in having his own web page, and I wanted a solution that he could update using his heavily secured school iPad.
 
-The result was https://brooks.cool
+The result was [https://brooks.cool](https://brooks.cool)
 
 # Steps
 
